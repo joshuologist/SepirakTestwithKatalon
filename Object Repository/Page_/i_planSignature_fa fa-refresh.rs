@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_planSignature_fa fa-refresh</name>
+   <tag></tag>
+   <elementGuidId>d8625820-4767-48e7-b5ed-eb655e29fa12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='e91c8tae']/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-refresh</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>78726abd-7529-4951-875b-0d61ddc8358d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-refresh</value>
+      <webElementGuid>074837c1-40e1-40ce-b842-9a00c534407f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e91c8tae&quot;)/div[1]/div[@class=&quot;signature-pad-body&quot;]/a[@class=&quot;btn btn-sm btn-light signature-pad-refresh&quot;]/i[@class=&quot;fa fa-refresh&quot;]</value>
+      <webElementGuid>bd95f3fd-6462-4ef9-ac4b-ea420fd667e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='e91c8tae']/div/div/a/i</value>
+      <webElementGuid>a8095cdb-28a5-4c8e-950f-fdecab6b749b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>85084f00-74a8-4fa8-b62f-d84ace9ede06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

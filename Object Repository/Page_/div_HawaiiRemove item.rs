@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HawaiiRemove item</name>
+   <tag></tag>
+   <elementGuidId>9233e085-db69-4a98-a047-c3f23be68267</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='e9xgfij']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#e9xgfij > div.choices.form-group.formio-choices > div.form-control.ui.fluid.selection.dropdown > div.choices__list.choices__list--single > div.choices__item.choices__item--selectable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f305d676-d061-4c55-83dc-4143901ed748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__item choices__item--selectable</value>
+      <webElementGuid>21c676bd-7fcd-43b6-bc33-1e829622d37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>3e3e2c65-3ff0-4524-8897-50946be20220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>Hawaii</value>
+      <webElementGuid>6add56dd-8f32-4ca2-b1dd-ace30b4cb189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a5029ae9-bf6f-4be0-bea3-dce57b8fc805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HawaiiRemove item</value>
+      <webElementGuid>435f7d0f-d080-452d-b9fe-0f862266ad20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e9xgfij&quot;)/div[@class=&quot;choices form-group formio-choices&quot;]/div[@class=&quot;form-control ui fluid selection dropdown&quot;]/div[@class=&quot;choices__list choices__list--single&quot;]/div[@class=&quot;choices__item choices__item--selectable&quot;]</value>
+      <webElementGuid>8afba880-3175-4513-9397-8753482d19b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='e9xgfij']/div/div/div/div</value>
+      <webElementGuid>5556b598-b237-44a4-94a8-93862a8954fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State Issued'])[1]/following::div[4]</value>
+      <webElementGuid>aa970a17-76e2-4ad9-868f-ec538bce12c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Photo Id Number'])[1]/following::div[8]</value>
+      <webElementGuid>d2b3c146-79f5-4f28-8719-87827234b0a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>d7aa6c64-c178-4216-9f1b-6e49ef0a8525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'HawaiiRemove item' or . = 'HawaiiRemove item')]</value>
+      <webElementGuid>41c5234d-1b2d-4cf2-88c2-e1052ccad2dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

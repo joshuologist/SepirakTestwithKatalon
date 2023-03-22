@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_spanMrs.spanMrs.Remove item</name>
+   <tag></tag>
+   <elementGuidId>943a6691-92dd-45b2-8cb6-3cf2d04f8838</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='eiwzws']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-control.ui.fluid.selection.dropdown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca75c8c6-d1f0-4712-ab46-664c6ec4d816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ui fluid selection dropdown</value>
+      <webElementGuid>710ea1cb-f9f4-4117-92ba-c0d59d3cd9b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9cfc1c10-4685-4343-961f-66a9b297817a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>667415d0-e394-4879-a6ed-96d5355d3977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;span>Mrs.&lt;/span>Mrs.Remove item</value>
+      <webElementGuid>f9aa58a6-7ff9-472d-949f-d4a656ce1e02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eiwzws&quot;)/div[@class=&quot;choices form-group formio-choices&quot;]/div[@class=&quot;form-control ui fluid selection dropdown&quot;]</value>
+      <webElementGuid>d6d34a9f-236b-4d6a-b635-8118cf284cbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='eiwzws']/div/div</value>
+      <webElementGuid>1104b08d-8e96-49f7-99b8-e2d38d48bd7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/following::div[2]</value>
+      <webElementGuid>1c36e6bd-bffe-43fc-b027-48761da9328c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review Before Submitting'])[1]/following::div[9]</value>
+      <webElementGuid>02799889-c851-4a14-ac21-44d53e69ee82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>5cd7ec2f-779a-4689-a9d2-7c5a8f7b3071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '&lt;span>Mrs.&lt;/span>Mrs.Remove item' or . = '&lt;span>Mrs.&lt;/span>Mrs.Remove item')]</value>
+      <webElementGuid>c8947e4a-c072-465b-b120-578a27213d57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_This is the retirement plans EIN.  Do N_a4cd22</name>
+   <tag></tag>
+   <elementGuidId>506d53fe-f4c5-4b69-b4a2-3a96d35d3805</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tippy-27']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tippy-27 > div.tippy-box > div.tippy-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>78a57c6d-f398-4b31-9bdd-c5d27958fdb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tippy-content</value>
+      <webElementGuid>d9585bca-26c9-47a9-8268-9d0d15ef07b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-state</name>
+      <type>Main</type>
+      <value>visible</value>
+      <webElementGuid>7c6ebc73-d091-403b-ab52-209b7555b7f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This is the retirement plan's EIN.  Do NOT use the Employer's EIN.  The IRS will tax all funds as income to the Employer (business) if the EMployer's EIN is used here.</value>
+      <webElementGuid>91fe5da9-1e98-4340-bf5d-12e3a44e7e7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tippy-27&quot;)/div[@class=&quot;tippy-box&quot;]/div[@class=&quot;tippy-content&quot;]</value>
+      <webElementGuid>4eb3671b-90c9-42f4-b881-7a04f494d100</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tippy-27']/div/div</value>
+      <webElementGuid>888c47a5-9415-49d0-b6b3-e7c2ce0bef56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove item'])[1]/following::div[18]</value>
+      <webElementGuid>f656d513-b5fc-414d-a6cf-1017fa2d8f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::div[8]</value>
+      <webElementGuid>99a23a46-ea40-4838-a618-ce47754afaac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::div[12]</value>
+      <webElementGuid>b2680673-0bf3-4130-b0a5-87026885c55b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>2b5fce1e-1ec4-41a6-bc2e-84b2712d8674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;This is the retirement plan&quot; , &quot;'&quot; , &quot;s EIN.  Do NOT use the Employer&quot; , &quot;'&quot; , &quot;s EIN.  The IRS will tax all funds as income to the Employer (business) if the EMployer&quot; , &quot;'&quot; , &quot;s EIN is used here.&quot;) or . = concat(&quot;This is the retirement plan&quot; , &quot;'&quot; , &quot;s EIN.  Do NOT use the Employer&quot; , &quot;'&quot; , &quot;s EIN.  The IRS will tax all funds as income to the Employer (business) if the EMployer&quot; , &quot;'&quot; , &quot;s EIN is used here.&quot;))]</value>
+      <webElementGuid>c6bc6efd-2445-4675-8ab2-abb2cf774233</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

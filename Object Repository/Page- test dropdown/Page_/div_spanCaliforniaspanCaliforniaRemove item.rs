@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_spanCaliforniaspanCaliforniaRemove item</name>
+   <tag></tag>
+   <elementGuidId>2702310b-89f8-47c7-8c90-6ec705e53c00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='eb9lclg']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.choices.form-group.formio-choices.is-open.is-focused > div.form-control.ui.fluid.selection.dropdown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bed1c7cb-cd69-45b5-ae87-f3a153f4447b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ui fluid selection dropdown</value>
+      <webElementGuid>3590600c-f3e5-45f6-96d9-70d5ee07d896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>853750a0-2ff9-4ba6-9ea8-1a5036899143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9a9e4408-3c50-4b16-b091-85ef11879870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;span>California&lt;/span>CaliforniaRemove item</value>
+      <webElementGuid>3e3783be-a25f-4ce0-bb0e-8e3d91e5e9e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eb9lclg&quot;)/div[@class=&quot;choices form-group formio-choices is-open is-focused&quot;]/div[@class=&quot;form-control ui fluid selection dropdown&quot;]</value>
+      <webElementGuid>e1e2d8cd-17f6-408b-a486-18597e567f4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='eb9lclg']/div/div</value>
+      <webElementGuid>8a7e5a71-5685-45bd-9760-4eb4a41f55b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State Issued'])[1]/following::div[2]</value>
+      <webElementGuid>ef4f6961-f41d-459a-89dc-d86bd67e5329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Photo Id Number'])[1]/following::div[6]</value>
+      <webElementGuid>57e232a3-0d18-48d1-acef-cfb3f10746d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div</value>
+      <webElementGuid>eb91645a-9167-496a-91bc-765d4df2b7c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '&lt;span>California&lt;/span>CaliforniaRemove item' or . = '&lt;span>California&lt;/span>CaliforniaRemove item')]</value>
+      <webElementGuid>caa19884-8d4f-4305-8894-77e59ab43105</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
