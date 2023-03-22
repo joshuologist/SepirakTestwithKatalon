@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d360219d-256e-424a-b187-027c52c41aa6</webElementGuid>
+      <webElementGuid>0a7f8104-6dee-41db-b615-2129d8ae0be1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fcb3cf2f-0d24-4c62-b9b9-3d5850a62fdf</webElementGuid>
+      <webElementGuid>c0a60fbe-0d24-4871-9b66-e97854c5a89b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Drivers License</value>
-      <webElementGuid>5179af44-bbf3-41b8-b683-c94c9395e2cf</webElementGuid>
+      <webElementGuid>be8e45b1-e12b-468a-9684-fabdf5d06a82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>lang</name>
       <type>Main</type>
       <value>en</value>
-      <webElementGuid>11d05b8b-ae35-4a8e-82fa-e94a1b4e68d0</webElementGuid>
+      <webElementGuid>58750cbb-04b1-4f57-89ab-f0412fb42104</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input</value>
-      <webElementGuid>efe7764e-a213-4089-bb31-f02e2b3068ab</webElementGuid>
+      <webElementGuid>6c52c34b-0746-4a8a-80f7-bf4c7b7a63c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>4036ac61-e1da-4046-b41d-0d8a485e2bb4</webElementGuid>
+      <webElementGuid>31af1711-e6b0-4bc3-9fc3-9dd7ef68b5d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>data[tbIdType]</value>
-      <webElementGuid>65b7bdb3-f498-425b-ae28-5446828b1b41</webElementGuid>
+      <webElementGuid>0e463e27-9164-433b-aae1-554d0dacbd54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>ref</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>68047197-85e2-4251-9fe6-48706dd5ce6f</webElementGuid>
+      <webElementGuid>2df7f91a-261d-47b1-9ee5-cae350bea33b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,15 +86,23 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>46ecac67-bb7b-48a3-be09-1c4d17c005de</webElementGuid>
+      <webElementGuid>25e8e4b1-3665-4433-b1b0-460ff7f5f0b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>checked</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>46ccf0d3-5557-45d7-9586-3554d6b4e0b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;eetmsj&quot;)/div[@class=&quot;form-check checkbox&quot;]/label[@class=&quot;form-check-label&quot;]/input[@class=&quot;form-check-input&quot;]</value>
-      <webElementGuid>3f779e17-d41f-4677-90ad-5d4884c5cf57</webElementGuid>
+      <value>id(&quot;e5h0wff&quot;)/div[@class=&quot;form-check checkbox&quot;]/label[@class=&quot;form-check-label&quot;]/input[@class=&quot;form-check-input&quot;]</value>
+      <webElementGuid>0152cd5f-a7d3-4f08-ac08-4990c550b617</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,15 +110,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='data[tbIdType]']</value>
-      <webElementGuid>a80c1d3c-f7c0-4689-90de-a89abf04ca99</webElementGuid>
+      <webElementGuid>1cc07a6c-1bbe-46ce-8255-e4b02cb1289f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='eetmsj']/div/label/input</value>
-      <webElementGuid>ac100dc9-8acf-49e5-b439-a35acd059158</webElementGuid>
+      <value>//div[@id='e5h0wff']/div/label/input</value>
+      <webElementGuid>54968d16-3c38-4df7-8d73-fd96f69ac1f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,14 +126,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/label/input</value>
-      <webElementGuid>342e032e-803e-43de-8130-70c824bc68bf</webElementGuid>
+      <webElementGuid>b9aacf14-0877-4d3f-8124-dfda98723183</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'radio' and @name = 'data[tbIdType]']</value>
-      <webElementGuid>02fb9425-f8a2-4d80-b57b-a447cbc6163c</webElementGuid>
+      <value>//input[@type = 'radio' and @name = 'data[tbIdType]' and @checked = 'true']</value>
+      <webElementGuid>2390adc2-3172-41f3-aea4-3791318fa2bd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

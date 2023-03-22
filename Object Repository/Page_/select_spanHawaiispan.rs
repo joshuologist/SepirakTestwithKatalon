@@ -6,12 +6,12 @@
    <elementGuidId>a8a740fe-b110-498f-94cd-9d5bf3c92117</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='elob1e3-tbIdState']</value>
+         <key>CSS</key>
+         <value>#eukj98-tbIdState</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#elob1e3-tbIdState</value>
+         <key>XPATH</key>
+         <value>//select[@id='eukj98-tbIdState']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>37f13bd4-67e4-494f-b0e8-1ffdd73427e5</webElementGuid>
+      <webElementGuid>d5c53f53-937f-4516-9be4-4b4ff5a24ec0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>14260799-dae6-4cae-8fea-140c9b9a2865</webElementGuid>
+      <webElementGuid>36b0850e-98fd-40f8-8901-4fac0ebb175f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>elob1e3-tbIdState</value>
-      <webElementGuid>0079cfcb-848d-45ea-b121-92ac05a0153a</webElementGuid>
+      <value>eukj98-tbIdState</value>
+      <webElementGuid>e6133118-3265-4cd7-a089-1aad91c0f61c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>lang</name>
       <type>Main</type>
       <value>en</value>
-      <webElementGuid>a577087c-b1db-493d-b9f7-89592c2e59a5</webElementGuid>
+      <webElementGuid>02d2db2d-54db-4bd2-bf1c-ddf5eea54ef4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control choices__input</value>
-      <webElementGuid>be4a6033-c459-4537-98fb-0200f2c71274</webElementGuid>
+      <webElementGuid>f90efdc4-c91d-4fd6-bc53-014c81678514</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>37f2d213-8af5-45dd-af14-b7f358e64689</webElementGuid>
+      <webElementGuid>58cd0b13-9229-4257-8459-64545905e9de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>data[tbIdState]</value>
-      <webElementGuid>5ab35b0c-9c26-4076-9c64-93684f245d46</webElementGuid>
+      <webElementGuid>24870cd1-6a5e-454d-afc6-38efe42aeeaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>ref</name>
       <type>Main</type>
       <value>selectContainer</value>
-      <webElementGuid>4f0698a0-76b1-4348-8a53-0c5f202e4cdc</webElementGuid>
+      <webElementGuid>87780758-c85c-4f06-901c-2ff25db4c4d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>ltr</value>
-      <webElementGuid>f90a78cd-2b89-4dce-b719-0a3e3be951f4</webElementGuid>
+      <webElementGuid>e8299076-6433-4398-ac25-6990bfb200ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>48d71394-044b-4097-b81b-bd29b9db078a</webElementGuid>
+      <webElementGuid>f05dda0e-4483-4b3b-a20f-c629928b4c04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>data-choice</name>
       <type>Main</type>
       <value>active</value>
-      <webElementGuid>7825b887-1698-4ae2-abe8-47036bfc65cf</webElementGuid>
+      <webElementGuid>9ed8031f-0bb5-44f4-9bdc-e0477657358a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,31 +110,31 @@
       <name>text</name>
       <type>Main</type>
       <value>&lt;span>Hawaii&lt;/span></value>
-      <webElementGuid>22f696f5-bb41-499a-8629-6f8c137a392d</webElementGuid>
+      <webElementGuid>3c7cc9e8-e6cd-479e-ae0f-6c7ee784ae29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;elob1e3-tbIdState&quot;)</value>
-      <webElementGuid>0cdc102b-4207-4893-b8cf-0d062b17d8e9</webElementGuid>
+      <value>id(&quot;eukj98-tbIdState&quot;)</value>
+      <webElementGuid>ee48f4b6-0ba6-4b2a-80d9-f4eeedd82a4a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='elob1e3-tbIdState']</value>
-      <webElementGuid>14194cc8-bae2-4506-b9c9-8a5cb5b80680</webElementGuid>
+      <value>//select[@id='eukj98-tbIdState']</value>
+      <webElementGuid>8c2e7e2a-66ae-4bfa-92b1-0d8b0f947052</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='elob1e3']/div/div/select</value>
-      <webElementGuid>044814b1-7494-428c-9572-6066bc1282b8</webElementGuid>
+      <value>//div[@id='eukj98']/div/div/select</value>
+      <webElementGuid>9634f839-7d95-48bd-b19a-2d4281199fc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='State Issued'])[1]/following::select[1]</value>
-      <webElementGuid>d22d1f0c-5f1e-4b31-a8e6-47a648a9be07</webElementGuid>
+      <webElementGuid>60ff7ec6-d792-4269-9a53-5ce22e9c51cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Photo Id Number'])[1]/following::select[1]</value>
-      <webElementGuid>25ab11ff-0885-4243-9298-7a22b97d534a</webElementGuid>
+      <webElementGuid>2e8b26ac-a4a0-48f9-bdf4-8ed7293428be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,15 +158,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hawaii'])[1]/preceding::select[1]</value>
-      <webElementGuid>daaa7710-b0c2-40af-88b1-c77ef27bf58d</webElementGuid>
+      <webElementGuid>a58a26d0-27dd-4dc2-a307-ccecb1638680</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove item'])[2]/preceding::select[1]</value>
-      <webElementGuid>cf32d75a-f071-408e-ba5f-81c9ea002fe9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove item'])[1]/preceding::select[1]</value>
+      <webElementGuid>ca34f26e-6570-40ab-9571-3a9d878aef6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,14 +174,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/select</value>
-      <webElementGuid>1b103d1c-9588-43b8-b909-af4594da4db9</webElementGuid>
+      <webElementGuid>22ea07fc-4489-4563-8d42-b4bcf32d38fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'elob1e3-tbIdState' and @type = 'text' and @name = 'data[tbIdState]' and (text() = '&lt;span>Hawaii&lt;/span>' or . = '&lt;span>Hawaii&lt;/span>')]</value>
-      <webElementGuid>9be84e6b-2f90-4c33-bb08-4639943fdd0c</webElementGuid>
+      <value>//select[@id = 'eukj98-tbIdState' and @type = 'text' and @name = 'data[tbIdState]' and (text() = '&lt;span>Hawaii&lt;/span>' or . = '&lt;span>Hawaii&lt;/span>')]</value>
+      <webElementGuid>e10439d8-ee48-46b2-8ed3-201e68ed1990</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

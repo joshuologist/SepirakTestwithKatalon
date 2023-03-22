@@ -6,12 +6,12 @@
    <elementGuidId>034c867f-4021-4ff2-885a-9a37b5e89526</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='wizard-ecpy9e9-nav']/li[3]/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-primary.btn-wizard-nav-next</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='wizard-e91rtnf-nav']/li[3]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e503e01c-2051-4d2c-b9c3-ef30ff6b3e3f</webElementGuid>
+      <webElementGuid>135e997c-8fd8-4478-a22c-c47501000636</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Next button. Click to go to the next tab</value>
-      <webElementGuid>35fb9a1e-0e42-4a65-bd23-20d20f59e2c8</webElementGuid>
+      <webElementGuid>438403c7-94f6-42a1-878d-89227c613bf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref</name>
       <type>Main</type>
-      <value>wizard-ecpy9e9-next</value>
-      <webElementGuid>124a9390-00f0-499f-a67a-39204c75171b</webElementGuid>
+      <value>wizard-e91rtnf-next</value>
+      <webElementGuid>6aa4c76c-038b-487f-9182-deb13931f385</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-wizard-nav-next</value>
-      <webElementGuid>0c08c122-8476-436a-aff3-d60214286e7d</webElementGuid>
+      <webElementGuid>054bfd19-df11-4e9a-af8c-e9a1dcbde9f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,23 +54,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>c16181f7-571d-4f4f-8595-0cf4168b3b22</webElementGuid>
+      <webElementGuid>c04274c3-56d8-45ff-aa06-73f49842ed7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;wizard-ecpy9e9-nav&quot;)/li[3]/button[@class=&quot;btn btn-primary btn-wizard-nav-next&quot;]</value>
-      <webElementGuid>9c9ae44c-f1ac-474c-bcb5-0ca6b5028c38</webElementGuid>
+      <value>id(&quot;wizard-e91rtnf-nav&quot;)/li[3]/button[@class=&quot;btn btn-primary btn-wizard-nav-next&quot;]</value>
+      <webElementGuid>ab32002a-33f0-4bc0-81b9-b53a060afb66</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='wizard-ecpy9e9-nav']/li[3]/button</value>
-      <webElementGuid>a7ada84a-b4e7-4169-8f46-85ff474a2ff6</webElementGuid>
+      <value>//ul[@id='wizard-e91rtnf-nav']/li[3]/button</value>
+      <webElementGuid>641b14d7-efc7-4796-acec-b2b992dbde70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::button[1]</value>
-      <webElementGuid>7d71e281-adf0-478e-8b93-3817c9691233</webElementGuid>
+      <webElementGuid>1fb1d2a1-1928-4280-9f74-4e604fba8726</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[2]</value>
-      <webElementGuid>3b1a306f-2b52-47bc-b960-bd561fd9cdca</webElementGuid>
+      <webElementGuid>980c61e9-5491-4a9e-af28-7b4cd7138552</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::button[1]</value>
-      <webElementGuid>39196e9d-8e8e-4864-a466-cf11abb1e4e7</webElementGuid>
+      <webElementGuid>155ebd9b-98af-4cdc-90c1-c0983ef26856</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Get the latest updates'])[1]/preceding::button[1]</value>
-      <webElementGuid>d2c93f01-8c37-42b8-b260-962c321e3e22</webElementGuid>
+      <webElementGuid>d4a1a9f0-97ea-42b3-a365-6c10617c4315</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>f2828148-d7ff-4f6c-a516-2740fbd8ca65</webElementGuid>
+      <webElementGuid>ecfabec7-5312-4386-8284-c6657e6b9a97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/ul/li[3]/button</value>
-      <webElementGuid>ee2511a5-f7d2-4ffa-8499-9644f0fcb3bf</webElementGuid>
+      <webElementGuid>e9c22c29-a52d-48ad-b647-8631ece97a24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>3f1f219f-6e3a-4fff-9dbf-1d68fb899dcc</webElementGuid>
+      <webElementGuid>6f5ee1ba-cfb1-488c-b199-3cf42555ee82</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

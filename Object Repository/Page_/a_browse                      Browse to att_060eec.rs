@@ -6,12 +6,12 @@
    <elementGuidId>8d267d1c-be8f-478b-8701-c28d22c9965d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='elci22l']/div/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.browse</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edfgbs']/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>054afe22-01f8-48ed-92b0-68009e721934</webElementGuid>
+      <webElementGuid>bd65b811-c00d-4dfe-8a4f-ccbd38b8aece</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>browse</value>
-      <webElementGuid>c4b04d20-d7db-4591-8d4d-ca4a27507f91</webElementGuid>
+      <webElementGuid>7890087b-ca84-4273-82e4-1fba6da8830c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>ref</name>
       <type>Main</type>
       <value>fileBrowse</value>
-      <webElementGuid>e7f22701-f4a1-4425-8e82-688fc7bde6ae</webElementGuid>
+      <webElementGuid>ed4ad9be-b6c3-47b2-8032-9c3ca8a01d11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>b1dae301-7526-44b0-bb7c-5f560c653d82</webElementGuid>
+      <webElementGuid>8f98d7a7-8043-4642-8488-b60cb353c09d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -59,23 +59,23 @@
             Browse to attach file for Photo ID. Any file types are allowed
           
         </value>
-      <webElementGuid>fc6c63d8-9535-46d2-a999-2b5bdabe286b</webElementGuid>
+      <webElementGuid>9dfc2ba6-a76d-430d-9d09-2d0099fa762a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;elci22l&quot;)/div[@class=&quot;fileSelector&quot;]/a[@class=&quot;browse&quot;]</value>
-      <webElementGuid>e5afd427-b4ae-4841-9454-19081e491976</webElementGuid>
+      <value>id(&quot;edfgbs&quot;)/div[@class=&quot;fileSelector&quot;]/a[@class=&quot;browse&quot;]</value>
+      <webElementGuid>14222d14-e19e-44d8-a8b8-8166bac1a77c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='elci22l']/div/a</value>
-      <webElementGuid>4bb91da7-2d58-44ef-843c-3c3df214e9e9</webElementGuid>
+      <value>//div[@id='edfgbs']/div/a</value>
+      <webElementGuid>cb7828fb-baf3-41a7-bb6e-e8d508f98847</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/following::a[1]</value>
-      <webElementGuid>1bfb5a9b-3e1c-4c73-b247-91e27ca9d60f</webElementGuid>
+      <webElementGuid>e3464910-3f32-40f2-be0e-a568784621ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::a[1]</value>
-      <webElementGuid>ed441f3c-5b4e-4c2c-84b6-7883e5d3ef91</webElementGuid>
+      <webElementGuid>dedf65e8-fb5c-4876-a4d3-5c37a7c04166</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='browse']/parent::*</value>
-      <webElementGuid>93f10b6e-71c5-4da8-b698-e07b2b7c32d5</webElementGuid>
+      <webElementGuid>939fbc15-dc84-4a58-9fda-843e8e1ce78b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>cd7b27bd-5842-4541-8d6c-ee63d9e90a1b</webElementGuid>
+      <webElementGuid>27bdb941-3113-406d-9ff6-e02645cc73c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/a</value>
-      <webElementGuid>d6631782-53db-436f-8766-2a34004bc0a0</webElementGuid>
+      <webElementGuid>2488a4bf-bdf6-4c0d-9fba-0478508b8c8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
             Browse to attach file for Photo ID. Any file types are allowed
           
         ')]</value>
-      <webElementGuid>e6673c8d-17cd-4d6e-925b-d9e38c79624b</webElementGuid>
+      <webElementGuid>8ff0e4e5-4d1b-45bb-8906-1d3ee126c4ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
