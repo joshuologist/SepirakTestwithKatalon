@@ -25,17 +25,15 @@ WebUI.click(findTestObject('Object Repository/Page_/button_Plan Details'))
 
 WebUI.click(findTestObject('Object Repository/Page_/div_Tax Year Plan is Established_form-contr_476e84'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_/select_span2022 Tax Yearspan'), '00/00/2022', true)
+WebUI.setText(findTestObject('Object Repository/Page_/input_Tax Year Plan is Established'), '2021 Tax Year')
 
-WebUI.click(findTestObject('Object Repository/Page_/div_This is the retirement plans EIN.  Do N_a4cd22'))
+WebUI.enhancedClick(findTestObject('Page_/select_Tax Year Plan is Established'))
 
-WebUI.setText(findTestObject('Object Repository/Page_/input_Solo 401(k) Plan EIN_datasolo401KPlanEin'), '56-8009456')
+WebUI.setText(findTestObject('Object Repository/Page_/input_Solo 401(k) Plan EIN_datasolo401KPlanEin'), '63-2589203')
 
-WebUI.click(findTestObject('Object Repository/Page_/input_Yes_dataplanLoan'))
+WebUI.click(findTestObject('Object Repository/Page_/input_Solo 401(k) Plan EIN_dataplanLoan'))
 
 WebUI.click(findTestObject('Object Repository/Page_/input_No_dataplanRoth'))
-
-WebUI.click(findTestObject('Object Repository/Page_/div_Yes'))
 
 WebUI.click(findTestObject('Object Repository/Page_/input_No_dataplanRothRoll'))
 

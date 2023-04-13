@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_concat(id(, , react, , )inputclass, , invalid empty touched, , )_invalid empty touched</name>
+   <tag></tag>
+   <elementGuidId>6bd55522-3114-4a01-b4c1-444e6ffc1231</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d8fefec2-28c9-4400-b4f2-66462c7d46bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>862371eb-b42d-4a95-9cc1-22485cce719e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> invalid empty touched</value>
+      <webElementGuid>5624f2b2-e572-4187-be7d-058f41a9b1f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Card holder</value>
+      <webElementGuid>34273bef-9f16-4221-8533-206fd45a542c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Text input</value>
+      <webElementGuid>d24df654-c689-407a-8848-ba7b6caf1876</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-placeholder</name>
+      <type>Main</type>
+      <value>Card holder</value>
+      <webElementGuid>ee901227-ba76-4fff-8019-3327dc0e9b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4d9544ce-94ef-4d3f-95f4-ea13f3b804b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react&quot;)/input[@class=&quot;invalid empty touched&quot;]</value>
+      <webElementGuid>918dffd5-11ee-4fa8-9cf7-8bdf4c495f92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_/iframe_Payment Information_randomId40605132_b43ecc</value>
+      <webElementGuid>0452c622-e1b0-4937-98b6-0550af979ac7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>0a2c3d13-0604-4b57-b9df-9b363bc4d02e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react']/input</value>
+      <webElementGuid>ed15af4e-9183-4c79-a9bb-4e2737bf6b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>4f136dae-10ea-433c-967e-1148f713b5a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Card holder']</value>
+      <webElementGuid>22f9f199-2eed-4ce1-bbe5-f87237ad27f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

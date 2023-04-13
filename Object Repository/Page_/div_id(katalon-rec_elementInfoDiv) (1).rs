@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Yes</name>
+   <name>div_id(katalon-rec_elementInfoDiv) (1)</name>
    <tag></tag>
-   <elementGuidId>80d28f31-c9dd-4fed-8b1a-4e1fa0f1a2e8</elementGuidId>
+   <elementGuidId>4de22417-c9a9-47ba-b44c-9ccf9e4284eb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#ese6u3 > div.form-check.checkbox</value>
+         <value>#katalon-rec_elementInfoDiv</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='ese6u3']/div</value>
+         <value>//div[@id='katalon-rec_elementInfoDiv']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,102 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>33e896d2-4850-4826-9717-7e9530e76415</webElementGuid>
+      <webElementGuid>9c7ec28a-1c8e-41cb-b5d1-3521159f1126</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>id</name>
       <type>Main</type>
-      <value>form-check checkbox</value>
-      <webElementGuid>3a41e8b0-882d-4691-b5f3-47528c63bd25</webElementGuid>
+      <value>katalon-rec_elementInfoDiv</value>
+      <webElementGuid>669c46c5-ac1e-4f7d-892d-8181ab4d3f86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-  
-    
-    Yes
-    
-    
-    
-  
-</value>
-      <webElementGuid>168a4c37-4636-4edb-94f1-2d094dfff13f</webElementGuid>
+      <value>id(&quot;katalon-rec_elementInfoDiv&quot;)</value>
+      <webElementGuid>382226fc-36d4-4660-9be5-75b08dae606a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ese6u3&quot;)/div[@class=&quot;form-check checkbox&quot;]</value>
-      <webElementGuid>e26bd0d4-b951-4ebf-9853-1631909604b3</webElementGuid>
+      <value>id(&quot;katalon-rec_elementInfoDiv&quot;)</value>
+      <webElementGuid>67819eab-aa7e-4219-83dc-0b27005dbb22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_/iframe_Payment Information_randomId40976776_53e5e9</value>
+      <webElementGuid>594a55d1-7149-400e-82f0-d40f80a0fa6d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='katalon-rec_elementInfoDiv']</value>
+      <webElementGuid>4c6adc8f-3964-4368-b40c-a80fbb45215f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='ese6u3']/div</value>
-      <webElementGuid>063951db-401c-4880-a53f-c7f305a97f99</webElementGuid>
+      <value>//div[@id='katalon']/div</value>
+      <webElementGuid>be489948-093b-4197-b9a5-efe92f55f378</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::div[12]</value>
-      <webElementGuid>dbb1bbae-5b88-4f0f-ab24-ca00c535623a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::div[16]</value>
-      <webElementGuid>d3c9d0b8-1a4b-473a-a090-dc532b73496a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/preceding::div[2]</value>
-      <webElementGuid>31792996-874b-482f-8a86-dc62f000a4c6</webElementGuid>
+      <value>//*/text()[normalize-space(.)='id(&quot;katalon-rec_elementInfoDiv&quot;)']/parent::*</value>
+      <webElementGuid>aa10687a-4758-43b9-9857-867d62c7cae6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[10]/div/div/div[2]/div/div/div</value>
-      <webElementGuid>feb4651e-6156-4c93-8595-f453c97aed5c</webElementGuid>
+      <value>//div[2]/div</value>
+      <webElementGuid>cae614df-866c-478f-9549-23272c68c2ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '
-  
-    
-    Yes
-    
-    
-    
-  
-' or . = '
-  
-    
-    Yes
-    
-    
-    
-  
-')]</value>
-      <webElementGuid>e8f515f0-c3ea-439e-b394-69dafb62fc4b</webElementGuid>
+      <value>//div[@id = 'katalon-rec_elementInfoDiv' and (text() = 'id(&quot;katalon-rec_elementInfoDiv&quot;)' or . = 'id(&quot;katalon-rec_elementInfoDiv&quot;)')]</value>
+      <webElementGuid>32dfcb58-21f8-412c-bd94-9ae58cac7b16</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

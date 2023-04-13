@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Plan Loans Allowed</name>
+   <tag></tag>
+   <elementGuidId>a535d5f7-1416-46ce-b22a-616542db1295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='e8yvql']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fca222a1-cf20-4aba-9684-d8b17596b163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref</name>
+      <type>Main</type>
+      <value>html</value>
+      <webElementGuid>1706fd00-b776-4afd-8aaa-99facb7c8546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Plan Loans Allowed?</value>
+      <webElementGuid>a67c3fe7-01a0-4d62-8048-ea2764428c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e8yvql&quot;)/p[1]</value>
+      <webElementGuid>397cf7cb-03bc-4784-b73c-b981b09f8db4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='e8yvql']/p</value>
+      <webElementGuid>68fcadc9-cc83-48e0-bb46-0b133de11b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solo 401(k) Plan EIN'])[1]/following::p[1]</value>
+      <webElementGuid>6e1af852-5081-4d50-9e92-7192232da9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove item'])[1]/following::p[1]</value>
+      <webElementGuid>0e6958f5-e8cf-45c5-a48f-baf4a41aebeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::p[1]</value>
+      <webElementGuid>bd2d202b-8fdf-433e-beaf-8a4dbd8ef97f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::p[1]</value>
+      <webElementGuid>1b779a17-0926-4bfd-9319-17784077e9cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Plan Loans Allowed?']/parent::*</value>
+      <webElementGuid>925baf90-f445-4d95-a084-26edaf7ecb77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>fdbb7479-b119-4278-9ae7-f951a20172cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Plan Loans Allowed?' or . = 'Plan Loans Allowed?')]</value>
+      <webElementGuid>85c5a7df-2aae-4a35-b52f-436e93bb7d1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

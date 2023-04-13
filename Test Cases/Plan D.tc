@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Plan Details -Form</name>
+   <name>Plan D</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d7b5b274-aee8-4d89-98c9-dd7d6b213d95</testCaseGuid>
+   <testCaseGuid>0861e9c0-cc67-4798-bab7-4a25e9b926dd</testCaseGuid>
 </TestCaseEntity>

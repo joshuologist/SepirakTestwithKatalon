@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_No_dataplanRothRoll</name>
+   <name>input_card-number-input  invalid dirty</name>
    <tag></tag>
-   <elementGuidId>063bb06a-3721-4044-b785-2ceced4ef256</elementGuidId>
+   <elementGuidId>3bbec893-8b4a-4116-8600-10f4c027b3ec</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='data[planRothRoll]']</value>
+         <key>CSS</key>
+         <value>input.card-number-input.invalid.dirty</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;data[planRothRoll]&quot;]</value>
+         <key>XPATH</key>
+         <value>//input[@value='4']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,110 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0aa64a27-bc00-4e07-8c35-ae1ac8f98f5a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-required</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>4799d192-2722-4577-aa73-6078e1042a46</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>12efa2ea-5b6a-4c74-928d-a081dafcb777</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>lang</name>
-      <type>Main</type>
-      <value>en</value>
-      <webElementGuid>0326a1f6-b607-4cf8-a661-ad0e366cf9ec</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-check-input</value>
-      <webElementGuid>7245890c-8663-4014-954d-3dd6e3ade71a</webElementGuid>
+      <webElementGuid>4e7bf895-5aa1-4f61-b5e0-6c35a2cdef95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>radio</value>
-      <webElementGuid>06bde078-0748-432b-b3ae-f7ef4e42a3e9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>data[planRothRoll]</value>
-      <webElementGuid>f4af4837-009d-4462-a04b-3e32990d2a70</webElementGuid>
+      <value>tel</value>
+      <webElementGuid>2b171c27-0e8f-4c7a-9135-4ad39f1c4c70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>ref</name>
+      <name>class</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>7fbf0e24-29ab-4295-a60b-4a6c68da987f</webElementGuid>
+      <value>card-number-input  invalid dirty</value>
+      <webElementGuid>4ee978f3-817f-4902-b7a8-65a6a421d073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Card number</value>
+      <webElementGuid>647157ba-039f-4653-b8de-237f1ee105da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Card Number Input</value>
+      <webElementGuid>df13bdff-6541-4819-b138-4c7e64771d7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-placeholder</name>
+      <type>Main</type>
+      <value>Card number</value>
+      <webElementGuid>009e7975-fe99-45ae-ba62-5282a62eef61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-invalid</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>a0847c17-933f-46c4-b041-dbd52566dcf8</webElementGuid>
+      <value>true</value>
+      <webElementGuid>fa6d9502-dc21-4c3e-bd50-10d86cc22290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>edd4544e-3d8e-41c4-a8ae-15f53ba0d327</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;e6hcjh7&quot;)/div[@class=&quot;form-check checkbox&quot;]/label[@class=&quot;form-check-label&quot;]/input[@class=&quot;form-check-input&quot;]</value>
-      <webElementGuid>a3f203c2-41dc-49ba-a394-af766b46938f</webElementGuid>
+      <value>id(&quot;react&quot;)/input[@class=&quot;card-number-input  invalid dirty&quot;]</value>
+      <webElementGuid>b25af263-2002-4ade-a087-4152f4013b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_/iframe_Payment Information_randomId40085802_196e19</value>
+      <webElementGuid>2ba07b73-b2a5-4373-9c94-dc9242e254db</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='data[planRothRoll]']</value>
-      <webElementGuid>1bec2e11-21f7-4628-a6d8-797af2ae4c74</webElementGuid>
+      <value>//input[@value='4']</value>
+      <webElementGuid>cab8adba-a0b0-4ec5-b600-13ff07cbe9f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='e6hcjh7']/div/label/input</value>
-      <webElementGuid>bca1c068-1203-4783-a573-e7b796c7aada</webElementGuid>
+      <value>//div[@id='react']/input</value>
+      <webElementGuid>7fa0419c-9edf-493a-b366-ae8dc1ccd1c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[11]/div/div/div[2]/div/div/div/label/input</value>
-      <webElementGuid>bb6860a2-4aa7-430d-94f0-d56e6a87a85c</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>2bff46e9-cdae-4d6e-80f0-d5292ef7efa9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'radio' and @name = 'data[planRothRoll]']</value>
-      <webElementGuid>5726e1a1-e027-402d-981a-0f2ffd8b7300</webElementGuid>
+      <value>//input[@type = 'tel' and @placeholder = 'Card number']</value>
+      <webElementGuid>987420f7-2ada-4fe9-a008-ae8da5c0708f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

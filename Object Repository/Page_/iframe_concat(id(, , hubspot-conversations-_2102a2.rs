@@ -6,12 +6,12 @@
    <elementGuidId>1f46c4a7-cae3-488d-b167-981c3cd409b6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//iframe[@id='hubspot-conversations-iframe']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#hubspot-conversations-iframe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe[@id='hubspot-conversations-iframe']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>iframe</value>
-      <webElementGuid>336497d0-7124-42c0-9941-db01a13a83db</webElementGuid>
+      <webElementGuid>62bd923a-5120-4f51-8f16-ab6ac55a48c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://app.hubspot.com/conversations-visitor/23684445/threads/utk/0d8a9904fb6642c3afe22f77ca1de7f0?uuid=5610955bd1414e30b8717573f7019c1b&amp;mobile=false&amp;mobileSafari=false&amp;hideWelcomeMessage=false&amp;hstc=null&amp;domain=stage.sepirak.com&amp;inApp53=false&amp;messagesUtk=0d8a9904fb6642c3afe22f77ca1de7f0&amp;url=https%3A%2F%2Fstage.sepirak.com%2Fform%2F&amp;inline=false&amp;isFullscreen=false&amp;globalCookieOptOut=null&amp;isFirstVisitorSession=true&amp;isAttachmentDisabled=false&amp;enableWidgetCookieBanner=false&amp;isInCMS=false</value>
-      <webElementGuid>7370ec10-5b32-41fd-9358-1b18a2938f6e</webElementGuid>
+      <value>https://app.hubspot.com/conversations-visitor/23684445/threads/utk/127178cdec8f44d397e722c9a6bf866f?uuid=6359a737481e4d0cbe4432433496553c&amp;mobile=false&amp;mobileSafari=false&amp;hideWelcomeMessage=false&amp;hstc=null&amp;domain=dev.sepirak.com&amp;inApp53=false&amp;messagesUtk=127178cdec8f44d397e722c9a6bf866f&amp;url=https%3A%2F%2Fdev.sepirak.com%2F&amp;inline=false&amp;isFullscreen=false&amp;globalCookieOptOut=null&amp;isFirstVisitorSession=true&amp;isAttachmentDisabled=false&amp;enableWidgetCookieBanner=false&amp;isInCMS=false</value>
+      <webElementGuid>6470f239-5f34-4120-9fa5-cff48eae7ca6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>hubspot-conversations-iframe</value>
-      <webElementGuid>2c424b3a-bb3a-4b1d-9a8d-920c9d21f5e3</webElementGuid>
+      <webElementGuid>64707283-7c2b-4e7d-852b-5e901dadfe7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>region</value>
-      <webElementGuid>7349a389-f9e2-4419-ad9d-8edc3f2c3099</webElementGuid>
+      <webElementGuid>2cb4bc5d-6cfb-4653-ae0c-6f0edda71f9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Chat Widget</value>
-      <webElementGuid>a92e5e76-28c6-44c6-9dce-aa78c27221f3</webElementGuid>
+      <webElementGuid>066c6738-ab44-4f66-a462-6fd58fc2ae22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-test-id</name>
       <type>Main</type>
       <value>chat-widget-iframe</value>
-      <webElementGuid>ab566cac-bac1-4341-8742-812b7baefcf7</webElementGuid>
+      <webElementGuid>f684806b-fc16-448a-a0e1-df03a2f67b9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;hubspot-conversations-iframe&quot;)</value>
-      <webElementGuid>21a34555-2b13-4853-8d05-1a2333c50cfc</webElementGuid>
+      <webElementGuid>806e17cb-96f4-4a11-9fe7-892c62f6063b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//iframe[@id='hubspot-conversations-iframe']</value>
-      <webElementGuid>dee6cd54-b205-4007-b8ec-8f96a5e7845c</webElementGuid>
+      <webElementGuid>aa5ae54e-e90d-4998-8e04-d58b5e930eb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='hubspot-messages-iframe-container']/iframe</value>
-      <webElementGuid>0e480477-5d85-43ae-af85-611bda42126f</webElementGuid>
+      <webElementGuid>92e6212a-2af2-4eae-a6a3-224268d186ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/iframe</value>
-      <webElementGuid>ae2bcab6-e574-41a9-a9c2-08c0d66de407</webElementGuid>
+      <webElementGuid>d0f2c885-4e94-48d7-ae62-ddcd1630a380</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//iframe[@src = 'https://app.hubspot.com/conversations-visitor/23684445/threads/utk/0d8a9904fb6642c3afe22f77ca1de7f0?uuid=5610955bd1414e30b8717573f7019c1b&amp;mobile=false&amp;mobileSafari=false&amp;hideWelcomeMessage=false&amp;hstc=null&amp;domain=stage.sepirak.com&amp;inApp53=false&amp;messagesUtk=0d8a9904fb6642c3afe22f77ca1de7f0&amp;url=https%3A%2F%2Fstage.sepirak.com%2Fform%2F&amp;inline=false&amp;isFullscreen=false&amp;globalCookieOptOut=null&amp;isFirstVisitorSession=true&amp;isAttachmentDisabled=false&amp;enableWidgetCookieBanner=false&amp;isInCMS=false' and @id = 'hubspot-conversations-iframe']</value>
-      <webElementGuid>c073f3e8-bd1d-474a-86c5-c111be97f0f7</webElementGuid>
+      <value>//iframe[@src = 'https://app.hubspot.com/conversations-visitor/23684445/threads/utk/127178cdec8f44d397e722c9a6bf866f?uuid=6359a737481e4d0cbe4432433496553c&amp;mobile=false&amp;mobileSafari=false&amp;hideWelcomeMessage=false&amp;hstc=null&amp;domain=dev.sepirak.com&amp;inApp53=false&amp;messagesUtk=127178cdec8f44d397e722c9a6bf866f&amp;url=https%3A%2F%2Fdev.sepirak.com%2F&amp;inline=false&amp;isFullscreen=false&amp;globalCookieOptOut=null&amp;isFirstVisitorSession=true&amp;isAttachmentDisabled=false&amp;enableWidgetCookieBanner=false&amp;isInCMS=false' and @id = 'hubspot-conversations-iframe']</value>
+      <webElementGuid>8310e44b-b9a1-4a76-8707-673a7ea6d8d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>e3b1c4fb-275f-4c59-ba37-b080e9e6271c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='eg5qfwo-planEstablishDate']</value>
+         <key>CSS</key>
+         <value>#ez4nke-planEstablishDate</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#eg5qfwo-planEstablishDate</value>
+         <key>XPATH</key>
+         <value>//label[contains(text(),'Tax Year Plan is Established')]/following-sibling::div//span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>12f6d5c9-41ac-4363-a797-a08fa3f06a8e</webElementGuid>
+      <webElementGuid>a27384c1-6cf2-4558-a8ec-666c4a44fd4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a5cdb459-d42d-4a69-8f9a-f60252a7c5fd</webElementGuid>
+      <webElementGuid>f91e90f0-8e1c-4e4c-8bab-f8e4b8cad579</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>eg5qfwo-planEstablishDate</value>
-      <webElementGuid>e0ad7768-1654-44c0-aa22-4e9f275b373f</webElementGuid>
+      <value>ez4nke-planEstablishDate</value>
+      <webElementGuid>a3b9cc1f-e10f-4c76-9f72-c077749f3ebf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>lang</name>
       <type>Main</type>
       <value>en</value>
-      <webElementGuid>0ba4cc42-4217-46b3-82b0-bc47d8be4e28</webElementGuid>
+      <webElementGuid>bedb5318-f73b-4be5-ba17-bef07ebce0ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control choices__input</value>
-      <webElementGuid>a95de379-be60-4528-a49a-4a36d8dfeed2</webElementGuid>
+      <webElementGuid>c64ef3b1-08f1-42b0-ae5e-d51ed0c8cae5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>35e2c6ae-1bd3-4707-89cf-51897dd567ca</webElementGuid>
+      <webElementGuid>c467a77a-44a7-4e32-9d5a-8229774cbaee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>data[planEstablishDate]</value>
-      <webElementGuid>648bb200-74a6-4ede-9723-82242e59aeff</webElementGuid>
+      <webElementGuid>86085562-7def-40bb-8700-01dabf140432</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>ref</name>
       <type>Main</type>
       <value>selectContainer</value>
-      <webElementGuid>82e6f51f-fe5b-4b67-b532-0826bdca714f</webElementGuid>
+      <webElementGuid>3d398ae5-88fa-41b7-a513-6ba57190f867</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>ltr</value>
-      <webElementGuid>086a41e4-d466-4947-8b54-11481cc55338</webElementGuid>
+      <webElementGuid>b46eebfa-a800-41f8-be89-d203313b0900</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>6cf20a6d-529e-41f0-9521-2499c811a053</webElementGuid>
+      <webElementGuid>43a156b4-5c7e-4d73-82ab-0ee7540e0780</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>data-choice</name>
       <type>Main</type>
       <value>active</value>
-      <webElementGuid>902641cd-33ca-463a-9249-3c844bae7c63</webElementGuid>
+      <webElementGuid>da9be0de-8058-4535-916b-a7116de6b812</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,31 +110,31 @@
       <name>text</name>
       <type>Main</type>
       <value>&lt;span>2022 Tax Year&lt;/span></value>
-      <webElementGuid>895c3624-9041-4135-a4bf-96de9c89d21c</webElementGuid>
+      <webElementGuid>826467b0-6a72-4b9b-909a-96df5d1c1697</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;eg5qfwo-planEstablishDate&quot;)</value>
-      <webElementGuid>d74d86a0-ecdf-4dc8-93b9-98f2c6da571f</webElementGuid>
+      <value>id(&quot;ez4nke-planEstablishDate&quot;)</value>
+      <webElementGuid>10323e70-30ce-4bf8-baff-ca78667d29b3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='eg5qfwo-planEstablishDate']</value>
-      <webElementGuid>f7aeade3-4008-4f53-9e3f-65229cca0a92</webElementGuid>
+      <value>//select[@id='ez4nke-planEstablishDate']</value>
+      <webElementGuid>7de8b006-baa9-4c9d-bce1-1fbc9a3b4d4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='eg5qfwo']/div/div/select</value>
-      <webElementGuid>670d1293-ffd0-4199-8ea3-b846e019536e</webElementGuid>
+      <value>//div[@id='ez4nke']/div/div/select</value>
+      <webElementGuid>b372d9a5-3db7-428a-bdb4-a04e2288d1c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax Year Plan is Established'])[1]/following::select[1]</value>
-      <webElementGuid>4ac9ad72-ac4e-4d7e-a528-20927023c3c7</webElementGuid>
+      <webElementGuid>9089cf5f-2b1b-42fc-93fe-81cb9183941b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Review Before Submitting'])[1]/following::select[1]</value>
-      <webElementGuid>965b7e99-a24a-4d23-9a1b-edc8814fad2c</webElementGuid>
+      <webElementGuid>7ca4db5f-2019-4969-b578-79e9b8c27674</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove item'])[1]/preceding::select[1]</value>
-      <webElementGuid>3ea089d1-28c0-4f30-8f2c-5f840102368c</webElementGuid>
+      <webElementGuid>cfcda4d7-14fd-4f36-b0a8-cb074fbc642e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Solo 401(k) Plan EIN'])[1]/preceding::select[1]</value>
-      <webElementGuid>753eb032-3318-4f0b-85d0-ce473f22bca1</webElementGuid>
+      <webElementGuid>bffd4249-c16c-43ba-9f39-2ea023f83a69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,14 +174,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>7bae4521-e5e4-49cb-9d29-eb8d11ccfa82</webElementGuid>
+      <webElementGuid>5c6f767e-c734-43fc-b6e7-54769d604b2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'eg5qfwo-planEstablishDate' and @type = 'text' and @name = 'data[planEstablishDate]' and (text() = '&lt;span>2022 Tax Year&lt;/span>' or . = '&lt;span>2022 Tax Year&lt;/span>')]</value>
-      <webElementGuid>7f99cea1-9f6f-406d-ae0b-100bd495ee9b</webElementGuid>
+      <value>//select[@id = 'ez4nke-planEstablishDate' and @type = 'text' and @name = 'data[planEstablishDate]' and (text() = '&lt;span>2022 Tax Year&lt;/span>' or . = '&lt;span>2022 Tax Year&lt;/span>')]</value>
+      <webElementGuid>a6ea6248-ddad-4f2a-beeb-ba45ef7b5f35</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

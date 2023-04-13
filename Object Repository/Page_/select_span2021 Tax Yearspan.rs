@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_span0-25,000span</name>
+   <name>select_span2021 Tax Yearspan</name>
    <tag></tag>
-   <elementGuidId>43e92575-c19b-458c-b33f-1839a19aac86</elementGuidId>
+   <elementGuidId>b859d8f4-df4f-4ba8-97af-49b9213d818b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#e08qq5h-tbTrustAccountMonthlyActivityDomestic</value>
+         <key>XPATH</key>
+         <value>//label[contains(text(),'Tax Year Plan is Established')]/following-sibling::div//span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//label[contains(text(),'TB_trustAccountMonthlyActivityDomestic')]/following-sibling::div//span</value>
+         <key>CSS</key>
+         <value>#e0228gg-planEstablishDate</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'e2lqyq-planEstablishDate' and @type = 'text' and @name = 'data[planEstablishDate]' and (text() = '&lt;span>2021 Tax Year&lt;/span>' or . = '&lt;span>2021 Tax Year&lt;/span>')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>1e8b2f70-6a7d-4792-8687-fc92007b5b2d</webElementGuid>
+      <webElementGuid>2aa28554-5d10-48af-b69e-9cbba9cdba5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4ea1fef7-a7b2-4c8a-9297-19bd42f53f44</webElementGuid>
+      <webElementGuid>7896eee6-17eb-44aa-ab09-c560ac96754f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>e08qq5h-tbTrustAccountMonthlyActivityDomestic</value>
-      <webElementGuid>8c0fd2ab-3c1e-456c-a460-9ef359b211d3</webElementGuid>
+      <value>e0228gg-planEstablishDate</value>
+      <webElementGuid>18beed3d-70c0-4a27-9213-3c71126738d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>lang</name>
       <type>Main</type>
       <value>en</value>
-      <webElementGuid>d44a7a37-47e8-4faa-bce0-c104b1a35980</webElementGuid>
+      <webElementGuid>a1d87649-4084-41e9-9544-b88e553344a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control choices__input</value>
-      <webElementGuid>35c7c70c-5d32-4612-a1d4-a58fa97093b3</webElementGuid>
+      <webElementGuid>f2ac441a-e15b-41ea-bb64-0c92d2974b81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,15 +66,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>79937893-7712-44bf-a086-64b3d8ad5936</webElementGuid>
+      <webElementGuid>6c2113da-6f6c-4e18-b07e-8a11cb86fdd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>data[tbTrustAccountMonthlyActivityDomestic]</value>
-      <webElementGuid>43d3fde2-3611-4533-9d6d-b5d2acfcc201</webElementGuid>
+      <value>data[planEstablishDate]</value>
+      <webElementGuid>a72fe3f3-8148-45be-8995-6c9463f0e66b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>ref</name>
       <type>Main</type>
       <value>selectContainer</value>
-      <webElementGuid>bb10f2e6-b5f1-40cb-b2d8-9ed542fa0edb</webElementGuid>
+      <webElementGuid>a22ab332-889f-4c84-8dc4-eb49b04d56e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>ltr</value>
-      <webElementGuid>0f08b6c1-e346-4f96-9e5d-de9ce7b515b1</webElementGuid>
+      <webElementGuid>088c0095-b892-4d18-9d30-689626b5d193</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>72d2c96c-bb07-48d7-aae5-29c2ed955a7c</webElementGuid>
+      <webElementGuid>2e5bc274-fbe8-4f37-a6cc-9ca8f577c249</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,63 +106,55 @@
       <name>data-choice</name>
       <type>Main</type>
       <value>active</value>
-      <webElementGuid>35823318-28f5-41bb-a01d-b65fe45c29d7</webElementGuid>
+      <webElementGuid>65143f62-0678-4004-bd11-4c7691c1a7fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>&lt;span>$0-$25,000&lt;/span></value>
-      <webElementGuid>e06d7c90-5070-405f-a522-eb32e6a95b59</webElementGuid>
+      <value>&lt;span>2021 Tax Year&lt;/span></value>
+      <webElementGuid>4e63eeff-7160-4e14-bced-79ee1af5f8ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;e08qq5h-tbTrustAccountMonthlyActivityDomestic&quot;)</value>
-      <webElementGuid>2f3d7f13-6cbb-4c5f-9d5b-a5361bfe3416</webElementGuid>
+      <value>id(&quot;e0228gg-planEstablishDate&quot;)</value>
+      <webElementGuid>8018343f-a7a0-4870-8240-c50e303b2114</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='e08qq5h-tbTrustAccountMonthlyActivityDomestic']</value>
-      <webElementGuid>2c088173-46ed-423f-a7f5-15ef1982a7e4</webElementGuid>
+      <value>//select[@id='e0228gg-planEstablishDate']</value>
+      <webElementGuid>59727a83-4dc1-4ea6-8ef9-1aa931f15831</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='e08qq5h']/div/div/select</value>
-      <webElementGuid>4a617ad9-4548-492f-b413-a51cfdeadd3a</webElementGuid>
+      <value>//div[@id='e0228gg']/div/div/select</value>
+      <webElementGuid>a07cc624-1f2e-43a7-9d7b-8f27778d2a98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='TB_trustAccountMonthlyActivityDomestic'])[1]/following::select[1]</value>
-      <webElementGuid>c3ab9fb7-b01c-49f4-afe8-4076d32427c6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax Year Plan is Established'])[1]/following::select[1]</value>
+      <webElementGuid>bcc01194-d573-4c05-861a-05ae70141e63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=', numeric only,'])[1]/following::select[1]</value>
-      <webElementGuid>62552f45-b6f8-4522-ba0a-9e634b6e4229</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='$0-$25,000'])[1]/preceding::select[1]</value>
-      <webElementGuid>752fa150-5408-4a81-95c3-5c30488fd058</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review Before Submitting'])[1]/following::select[1]</value>
+      <webElementGuid>8f4047e2-ec4f-4f86-b8b8-d96d135348a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +162,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove item'])[1]/preceding::select[1]</value>
-      <webElementGuid>1c4f5955-2ffa-4b4c-98d3-893abe8b7892</webElementGuid>
+      <webElementGuid>79d81ccf-815f-4e24-a95c-629942d5b2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solo 401(k) Plan EIN'])[1]/preceding::select[1]</value>
+      <webElementGuid>c7a5f2ea-de78-48dc-b25c-bfaaf0b8f3ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,14 +178,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>d25731c7-1ac0-4591-a255-14896c8c6db2</webElementGuid>
+      <webElementGuid>749f4df1-c89b-4301-8875-4202906f3115</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'e08qq5h-tbTrustAccountMonthlyActivityDomestic' and @type = 'text' and @name = 'data[tbTrustAccountMonthlyActivityDomestic]' and (text() = '&lt;span>$0-$25,000&lt;/span>' or . = '&lt;span>$0-$25,000&lt;/span>')]</value>
-      <webElementGuid>348b11e3-cb30-402a-ac23-c5e208abc362</webElementGuid>
+      <value>//select[@id = 'e0228gg-planEstablishDate' and @type = 'text' and @name = 'data[planEstablishDate]' and (text() = '&lt;span>2021 Tax Year&lt;/span>' or . = '&lt;span>2021 Tax Year&lt;/span>')]</value>
+      <webElementGuid>b42f3f97-0689-4f3e-a5a2-b409987466ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,9 @@ WebUI.click(findTestObject('Object Repository/Page_/div_, numeric only,_col-md-6
 
 WebUI.click(findTestObject('Object Repository/Page_/div_TB_trustAccountMonthlyActivityDomestic__33c879'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_/select_span0-25,000span'), '$0-$25,000', true)
+WebUI.setText(findTestObject('Object Repository/Page_/input_TB_trustAccountMonthlyActivityDomestic__33c879'), '$0-$25,000')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_/select_span0-25,000span'))
 
 WebUI.click(findTestObject('Object Repository/Page_/div_TB_trustAccountMonthlyActivityInternati_52fa07'))
 
